@@ -6,7 +6,6 @@ Download the program here: https://github.com/Direnta/Image-RGB/releases/downloa
 Download the source here: https://github.com/Direnta/Image-RGB/tree/master/Image-RGB-1.0
 
 # Demonstration
-![script](https://i.gyazo.com/e093dff20c30b1663c32e222ef103902.gif)
 ![program](https://niggers.win/i/uz4l.gif)
 
 # Example Script
