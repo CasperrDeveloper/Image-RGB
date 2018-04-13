@@ -8,6 +8,7 @@ Download the source here: https://github.com/Direnta/Image-RGB/tree/master/Image
 
 # Demonstration
 ![program](https://niggers.win/i/uz4l.gif)
+![script](https://i.gyazo.com/e093dff20c30b1663c32e222ef103902.gif)
 
 # Example Script
 ```lua
