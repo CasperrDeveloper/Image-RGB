@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image-RGB", "Image-RGB.csproj", "{D6183C06-C63C-4987-8022-544EFB27C839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6183C06-C63C-4987-8022-544EFB27C839}.Debug|x86.ActiveCfg = Debug|x86
+		{D6183C06-C63C-4987-8022-544EFB27C839}.Debug|x86.Build.0 = Debug|x86
+		{D6183C06-C63C-4987-8022-544EFB27C839}.Release|x86.ActiveCfg = Release|x86
+		{D6183C06-C63C-4987-8022-544EFB27C839}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3F58434-81C2-4E42-89BF-1CC48CB4F902}
+	EndGlobalSection
+EndGlobal
